@@ -1,10 +1,10 @@
 if __name__ == '__main__':
     reference= []
     balance = {}
-    #price=5
+    price=5
     buy=[]
     print('Product List')
-    #print('product 1 --->  5$ Price')
+    print('product 1 --->  5$ Price')
     while True:
         print('\n')
         name= input('whats your name:')
